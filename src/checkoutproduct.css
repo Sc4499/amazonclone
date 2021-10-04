@@ -1,0 +1,17 @@
+.checkoutpro{
+    display: flex;
+    margin: 20px 0;
+}
+.checkout_img{
+width:150px;
+}
+.checkout_info{
+    padding: 5px 10px;
+}
+.checkout_rating{
+    display: flex;
+}
+.checkout_product_title{
+    font-weight: 600;
+    font-size: 17px;
+}

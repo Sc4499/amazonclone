@@ -1,0 +1,40 @@
+.payment_heading > h5 {
+  padding: 10px;
+  text-align: center;
+  background-color: rgb(231, 231, 231);
+}
+.payment {
+
+  margin: 0 auto;
+  background-color: white;
+}
+
+p {
+  font-weight: 500;
+}
+.payment_row {
+  display: flex;
+  padding: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-bottom: 1px solid grey;
+}
+.Payment_address {
+  flex: 0.2;
+}
+.Payment_add {
+  flex: 0.8;
+}
+.Payment_item_heading {
+  flex: 0.2;
+}
+.Payment_item {
+  flex: 0.8;
+}
+.Payment_method{
+    flex: 0.2;
+  }
+  .payment_card{
+    
+    flex: 0.8;
+  }
