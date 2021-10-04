@@ -10,6 +10,7 @@ const Login = () => {
   const [password, SetPassword] = useState("");
   const signInFunc = (e) => {
     e.preventDefault();
+    // hello shailendra
      //do some fanfy firebase on login
      auth.signInWithEmailAndPassword(email, password)
      .then(auth =>{
